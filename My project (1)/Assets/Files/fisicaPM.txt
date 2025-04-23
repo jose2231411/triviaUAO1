@@ -1,0 +1,9 @@
+¿Qué instrumento se usa para medir la masa?-Termómetro-Balanza-Regla-Manómetro-Balanza-facil
+¿En qué estado se encuentra el agua a 0°C y presión normal?-Gaseoso-Sólido-Líquido-Plasma-Sólido-facil
+¿Qué fuerza hace que los objetos caigan al suelo?-Fricción-Magnética-Centrípeta-Gravedad-Gravedad-facil
+¿Cuál es la unidad de medida del trabajo en el Sistema Internacional?-Newton-Watt-Julio-Pascal-Julio-media
+¿Qué fuerza se necesita para acelerar un objeto de 2 kg a 3 m/s²?-6 N-1.5 N-3 N-5 N-6 N-media
+¿En qué tipo de energía se convierte la energía potencial en una caída libre?-Energía solar-Energía cinética-Energía química-Energía térmica-Energía cinética-media
+¿Qué principio establece que la energía no se crea ni se destruye?-Principio de Pascal-Principio de Arquímedes-Ley de conservación de la energía-Ley de Hooke-Ley de conservación de la energía-dificil
+¿Cuál es la aceleración centrípeta de un objeto que se mueve a 10 m/s en un círculo de 5 m de radio?-2 m/s²-10 m/s²-20 m/s²-4 m/s²-20 m/s²-dificil
+¿Qué cantidad representa el área bajo una curva de fuerza vs. desplazamiento?-Velocidad-Trabajo-Energía potencial-Masa-Trabajo-dificil

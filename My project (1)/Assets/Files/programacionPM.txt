@@ -1,0 +1,9 @@
+¿Qué imprime el siguiente código: Console.WriteLine(3 + "3");?-6-33-Error-3+3-33-media
+¿Qué estructura permite repetir un bloque de código mientras una condición sea verdadera?-if-for-while-switch-while-media
+¿Cuál es el tipo de dato que almacena valores verdaderos o falsos?-int-string-bool-char-bool-media
+¿Qué palabra clave se usa para declarar una variable en C#?-function-def-var-int-var-facil
+¿Qué estructura de control se usa para tomar decisiones?-for-if-while-switch-if-facil
+¿Cuál es el valor booleano de una comparación falsa?-true-false-null-0-false-facil
+¿Qué imprime el código: for(int i=0; i<3; i++) { Console.Write(i); }?-012-123-321-Error-012-dificil
+¿Qué representa una excepción en programación?-Un bucle infinito-Una condición lógica-Una interrupción por error-Un tipo de variable-Una interrupción por error-dificil
+¿Qué tipo de dato usarías para almacenar una secuencia de caracteres en C#?-int-float-char-string-string-dificil

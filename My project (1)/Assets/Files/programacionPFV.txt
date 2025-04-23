@@ -1,0 +1,3 @@
+La instrucción `if` se usa para tomar decisiones.-true-facil
+Una variable `int` puede almacenar texto.-false-media
+En C#, una clase puede heredar de múltiples clases base.-false-dificil

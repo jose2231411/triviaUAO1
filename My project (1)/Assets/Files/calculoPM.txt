@@ -1,0 +1,9 @@
+¿Cuál es la derivada de f(x) = 5?-0-5-1-x-0-facil
+¿Cuál es la derivada de f(x) = x³?-3x²-x²-3x³-x-3x²-facil
+¿Cuál es el resultado de ∫1 dx?-0-1-x-ln(x)-x-facil
+¿Cuál es la derivada de f(x) = ln(x²)?-1/x-2/x-2x/x²-1/(2x)-2/x-dificil
+¿Cuál es el valor de la integral definida ∫₀¹ x² dx?-1/3-1/2-1-2/3-1/3-dificil
+Si f(x) = e^(2x), ¿cuál es su derivada?-2e^x-2xe^x-e^(2x)-2e^(2x)-2e^(2x)-dificil
+¿Cuál es la derivada de f(x) = x^2 + 3x + 2?-2x+3-x^2+3-2x+2-3x^2-2x+3-media
+¿Cuál es la integral de f(x) = 2x?-x^2-2x^2+1-2x-x^2-media
+¿Dónde tiene máximo la función f(x) = -x² + 4x?-x = -2-x = 2-x = 4-x = 0-x = 2-media
